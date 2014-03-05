@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeratelDsiRS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Status="0" Message="OK" xmlns="http://interface.deskline.net/DSI/XSD">
+  <Result Index="1">
+    <ServiceProviders>
+      <ServiceProvider Id="c1126152-0000-4a02-ad57-000000000000" ChangeDate="2013-11-11T11:31:00">
+        <Details>
+          <Name>Ferienwohnung Mustermann</Name>
+          <Town>de0be162-86fa-455a-ad57-000000000000</Town>
+          <District>6f14277f-4c8d-4b23-ad57-000000000000</District>
+          <Code>MusterCode</Code>
+          <Type>Accommodation</Type>
+          <Priority>99</Priority>
+          <Rooms>1</Rooms>
+          <Beds>2</Beds>
+          <Position Latitude="51.9714" Longitude="14.18811" />
+          <Stars Id="D3062708-5B43-4F42-AA18-95B3AD32C3C9" />
+          <Categories>
+            <Item Id="EC3C8E0C-961C-4CFD-900E-1F2875ACCE63" />
+          </Categories>
+          <Active>true</Active>
+          <CreditCards />
+          <GridSquare />
+          <PlanNumber />
+          <DBCode>SAC</DBCode>
+          <Bookable>true</Bookable>
+          <BankAccounts />
+          <CurrencyCode>EUR</CurrencyCode>
+        </Details>
+        <Documents>
+          <Document Id="a7cef871-e16a-461e-ad57-000000000000" Type="ServiceProvider" Class="Image" Systems="L T I C" Order="1" ShowFrom="101" ShowTo="1231" Copyright="" Extension="jpg" Size="287" ChangeDate="2013-06-25T08:58:00">
+            <Names>
+              <Translation Language="de">Ferienwohnung Mustermann - Außenansicht</Translation>
+            </Names>
+            <URL>http://interface.deskline.net/Handlers/Document?code=SAC&amp;id=a7cef871-e16a-461e-ad57-000000000000</URL>
+          </Document>
+          <Document Id="bfdfa3b6-177a-4e17-ad57-000000000000" Type="ServiceProvider" Class="Image" Systems="L T I C" Order="2" ShowFrom="101" ShowTo="1231" Copyright="" Extension="jpg" Size="53" ChangeDate="2013-06-25T09:02:00">
+            <Names>
+              <Translation Language="de">Sitzecke im Garten</Translation>
+            </Names>
+            <URL>http://interface.deskline.net/Handlers/Document?code=SAC&amp;id=bfdfa3b6-177a-4e17-ad57-000000000000</URL>
+          </Document>
+        </Documents>
+        <Descriptions>
+          <Description Id="acf05c36-7ee2-4852-b2ac-3a7f120122a7" Type="ServiceProviderDescription" Language="de" Systems="L T I C" ShowFrom="101" ShowTo="1231" ChangeDate="2012-06-28T17:17:00">Unser kleines Dorf ist von Wäldern,
+ Wiesen und Bergen umgeben,
+ ruhig gelegen fern vom Trubel,
+ unmittelbar am Nationalpark  Sächsische Schweiz.
+Unsere Ferienwohnung ist in modernen ländlichen Stil eingerichtet. Ist im Nebengebäude eines ehemaligen Bauernhofes,
+ das Deckengewölbe gibt der Wohnung eine besondere Note. Sie ist ganzjährig bis 3 Personen zu vermieten. die Wohnung ist im Erdgeschoß und durch einen separaten Eingang zu erreichen. Handtücher und Bettwäsche werden von uns gestellt,
+ unsere privaten Fahrräder können Sie leihen. Kleinere oder mittelgroße Haustiere können Sie nach Absprache mitbringen. 
+</Description>
+        </Descriptions>
+        <Facilities ChangeDate="2012-06-28T14:15:00">
+          <Facility Id="a65c3f17-0788-4f73-9185-a8846eba0350" Value="1" />
+          <Facility Id="6dc5c4ad-ae18-4a36-bde4-22c9738b347f" Value="1" />
+          <Facility Id="2d21151e-e8ef-43fb-a12f-b3699463383c" Value="1" />
+          <Facility Id="6b87e354-96f5-4ca9-b7d4-284ca017dcd2" Value="1" />
+          <Facility Id="5da9b0ed-a586-45f8-882d-e811e557def1" Value="1" />
+          <Facility Id="125ec4db-1171-428e-92cf-cd1d989c867c" Value="1" />
+          <Facility Id="742f3e55-5bd8-4f79-81cc-c5e175eaa133" Value="1" />
+        </Facilities>
+        <Addresses>
+          <Address Type="Object" ChangeDate="2013-11-11T11:30:00" Id="8ae7c6d8-a8da-498b-ad57-000000000000">
+            <Company>Ferienwohnung Mustermann</Company>
+            <Title>Herr</Title>
+            <FirstName>Max</FirstName>
+            <LastName>Mustermann</LastName>
+            <AddressLine1>Hauptstrasse 12</AddressLine1>
+            <AddressLine2 />
+            <Country>DE</Country>
+            <ZipCode>01234</ZipCode>
+            <Town>Musterstadt</Town>
+            <Email>mustermann@example.de</Email>
+            <Fax>01234 999 999</Fax>
+            <URL>http://www.google.de</URL>
+            <Phone>01234 999 888</Phone>
+            <Mobile />
+          </Address>
+        </Addresses>
+        <CustomAttributes ChangeDate="2013-11-11T11:31:00">
+          <CustomAttribute Value="" Id="4a7520ae-71d6-4c68-92c9-c5f7901af13a" />
+        </CustomAttributes>
+        <Services>
+          <Service Id="54fae5a1-7b73-4813-a03e-11d189138604" ChangeDate="2012-06-28T14:14:00">
+            <Details>
+              <Type>Accommodation</Type>
+              <Rooms>2.0</Rooms>
+              <Bedrooms>1</Bedrooms>
+              <Size>30</Size>
+              <UseAvailability>1</UseAvailability>
+              <LastAvailabilityChange>2014-03-03T09:45:00</LastAvailabilityChange>
+              <MaxAvailability>1</MaxAvailability>
+              <Order>1</Order>
+              <Name>
+                <Translation Language="de">Appartement/Fewo,
+ Dusche,
+ WC</Translation>
+              </Name>
+              <ServiceClassification Id="b036be78-c2b1-4b74-bb0f-4e6feb9c7a88" />
+              <Code>APTS</Code>
+              <Active>true</Active>
+            </Details>
+            <Documents>
+              <Document Id="e19ba97d-8db8-421c-ad57-000000000000" Type="Service" Class="Image" Systems="L T I C" Order="1" ShowFrom="101" ShowTo="1231" Copyright="" Extension="jpg" Size="205" ChangeDate="2013-06-25T09:03:00">
+                <Names>
+                  <Translation Language="de">Ferienwohnung Mustermann - Wohnraum</Translation>
+                </Names>
+                <URL>http://interface.deskline.net/Handlers/Document?code=SAC&amp;id=e19ba97d-8db8-421c-ad57-000000000000</URL>
+              </Document>
+              <Document Id="7319ca6f-99f7-44b4-b4fd-24d267149de8" Type="Service" Class="Image" Systems="L T I C" Order="2" ShowFrom="101" ShowTo="1231" Copyright="" Extension="jpg" Size="67" ChangeDate="2013-06-25T08:56:00">
+                <Names>
+                  <Translation Language="de">Ferienwohnung Mustermann - Küchenzeile</Translation>
+                </Names>
+                <URL>http://interface.deskline.net/Handlers/Document?code=SAC&amp;id=7319ca6f-99f7-44b4-ad57-000000000000</URL>
+              </Document>
+              <Document Id="c657c5c8-b175-4c64-9f26-230b436d3cf0" Type="Service" Class="Image" Systems="L T I C" Order="3" ShowFrom="101" ShowTo="1231" Copyright="" Extension="jpg" Size="56" ChangeDate="2013-06-25T08:56:00">
+                <Names>
+                  <Translation Language="de">Ferienwohnung Mustermann - Dusche/WC</Translation>
+                </Names>
+                <URL>http://interface.deskline.net/Handlers/Document?code=SAC&amp;id=c657c5c8-b175-4c64-ad57-000000000000</URL>
+              </Document>
+            </Documents>
+            <Descriptions>
+              <Description Id="6275e1b0-0417-49d0-a50c-36cf7416b56f" Type="ServiceDescription" Language="de" Systems="L T I C" ShowFrom="101" ShowTo="1231" ChangeDate="2012-06-28T17:22:00">Die Ferienwohnung liegt im Erdgeschoss uns kann mit 3 Personen belegt werden. Sie verfügt über einen Schlafraum mit Doppelbett und dritter Schlafmöglichkeit auf einer Liege. Der Wohnraum ist mit einer Kochnische,
+ einer Sitzecke und TV (Flachbildschirm mit DVD) ausgestattet. Eine Sitzecke im Garten mit Grillmöglichkeit,
+ eine Terrasse sowie ein Pkw-Stellplatz stehen zur Ihrer Verfügung.
+</Description>
+            </Descriptions>
+            <Facilities ChangeDate="2012-06-28T14:14:00">
+              <Facility Id="76f754ff-e1bc-4030-ad21-3d4a7b7e6bab" Value="1" />
+              <Facility Id="e30a7a0a-348b-4737-8593-9321211112c3" Value="1" />
+              <Facility Id="73cfc5e7-c2cc-417a-8108-348ca16b5bee" Value="1" />
+              <Facility Id="a9b83c63-b221-4a31-b2ff-cb2bb4118677" Value="1" />
+              <Facility Id="9d2eaf06-21ad-4ab2-91b2-37d443c492df" Value="1" />
+              <Facility Id="41943739-b8db-4f21-b84d-e82f59353c53" Value="1" />
+              <Facility Id="1d55c87b-0002-46cc-af4b-524d1b9c081b" Value="1" />
+              <Facility Id="23c5a402-5554-4522-8e60-0ce37e3ebd80" Value="1" />
+              <Facility Id="6c36d6ed-552c-44ca-ad57-c3f147350996" Value="1" />
+              <Facility Id="2ae5fff4-9d37-4f76-ab82-b96be2d44e5b" Value="1" />
+              <Facility Id="1b9ab64d-497d-4fba-b434-c39aba3198b6" Value="1" />
+              <Facility Id="b042dbec-aa29-4281-b54b-0bcecc3cdafc" Value="1" />
+              <Facility Id="7e4a38fa-21c3-4b62-b131-1725914cd90b" Value="1" />
+              <Facility Id="57267f1d-c881-4b7e-b26a-3dc373437442" Value="1" />
+              <Facility Id="e9ea89ed-c592-455c-b8f5-03965219644b" Value="1" />
+              <Facility Id="e9c709ff-c9f4-4ac4-9696-237b351ec165" Value="1" />
+              <Facility Id="c7ef9612-9ea5-4d51-a3ec-7de8424ae15b" Value="1" />
+              <Facility Id="98aa3e49-281a-4490-94d0-5f8464cf2d19" Value="1" />
+            </Facilities>
+            <Products>
+              <Product Id="1f656ae7-76ef-4866-a84f-39d2ae850c0d" ChangeDate="2012-09-11T11:30:00">
+                <Details>
+                  <ProductType>Accommodation</ProductType>
+                  <AccommodationType>Apartment</AccommodationType>
+                  <SearchCode>ZVM</SearchCode>
+                  <Order>1</Order>
+                  <Occupancy>
+                    <Beds Min="1" Max="3" />
+                    <Adults Standard="2" Min="1" Max="2" />
+                    <Children Min="0" Max="2" />
+                    <MinFullPayer>0</MinFullPayer>
+                  </Occupancy>
+                  <Name>
+                    <Translation Language="de">Ferienwohnung,
+ Dusche,
+ WC,
+ 1 Schlafraum</Translation>
+                  </Name>
+                  <ValidDates Type="Always" />
+                  <Active>true</Active>
+                </Details>
+              </Product>
+            </Products>
+          </Service>
+        </Services>
+      </ServiceProvider>
+    </ServiceProviders>
+  </Result>
+</FeratelDsiRS>
