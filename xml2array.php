@@ -37,7 +37,9 @@ function xml2array($xml, $root = true)
           $data[$node->children()->getName()] = $items[$node->children()->getName()];
         }
       } else {
-        $data['value'] = $node->__toString();
+        if ($node->__toString() != null) {
+          $data['value'] = $node->__toString();
+        }
       }
 
 
